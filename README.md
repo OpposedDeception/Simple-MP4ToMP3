@@ -36,11 +36,11 @@ You can do it from official website: https://ffmpeg.org/
 ![image](https://user-images.githubusercontent.com/113610915/204111930-4b00dd57-9152-42bd-93f2-c17e09522391.png)
 
 ### Windows:
-  Download the build from here.
+Download the build from there.
   
-  Unzip the build in any folder.
+Unzip the build in any folder.
   
-  Open the CMD with adminstrative rights
+Open the CMD with adminstrative rights
   
   Run the below command for setting the environment variable
 
