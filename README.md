@@ -1,4 +1,4 @@
-# Simple-MP4-to-MP3---Converter
+# Simple MP4 to MP3 Converter
 Nothing new and nothing cool
 
 # Installation
